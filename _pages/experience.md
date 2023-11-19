@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Research Assistant at Caesar Research Group (April 2023 to Present)
+**Research Assistant at Caesar Research Group (April 2023 to Present)**
 
 University of Illinois at Urbana-Champaign Champaign, IL
 
@@ -22,7 +22,7 @@ of more than 200 conference attendees, fostering valuable connections within the
 assignments for over 20 prospective applicants, contributing to the growth and strength of our research team.
 
 
-Undergraduate Course Assistant for CS 124 (January 2021 to May 2021)
+**Undergraduate Course Assistant for CS 124 (January 2021 to May 2021)**
 
 University of Illinois at Urbana-Champaign Champaign, IL
 

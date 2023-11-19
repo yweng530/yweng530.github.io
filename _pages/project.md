@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Flight Tickets Booking System | ReactJS, NodeJS, Google Cloud Platform (June 2022 - August 2022)
+**Flight Tickets Booking System | ReactJS, NodeJS, Google Cloud Platform (June 2022 - August 2022)**
 
 • Spearheaded the design and development of the web application’s frontend using ReactJS, enhancing user
 experience and interface aesthetics.
