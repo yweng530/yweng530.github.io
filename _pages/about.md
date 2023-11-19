@@ -14,7 +14,7 @@ Hi! I'm a senior Computer Science Student at the University of Illinois at Urban
 
 Email: yuhua2 at illinois dot edu
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=adcHDcPRBIJW_yBLyhT9yFLAf6RC_XY835vzBGjO2P0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=8288aa&w=300&t=n&d=adcHDcPRBIJW_yBLyhT9yFLAf6RC_XY835vzBGjO2P0&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
