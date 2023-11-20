@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a senior Computer Science Student at the University of Illinois at Urbana-Champaign. Some of my current interests in CS include Web Development, Artificial Intelligence, Data and information systems.
+Hi! I'm currently a senior Computer Science Student at the University of Illinois at Urbana-Champaign. Some of my current interests in CS include Web Development, Artificial Intelligence, Data and information systems.
 
 **Contact Info**
 
