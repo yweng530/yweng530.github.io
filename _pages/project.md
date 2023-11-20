@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Flight Tickets Booking System | ReactJS, NodeJS, Google Cloud Platform (June 2022 - August 2022)**
+**Flight Tickets Booking System (June 2022 - August 2022)**
 
 • Spearheaded the design and development of the web application’s frontend using ReactJS, enhancing user
 experience and interface aesthetics.
@@ -16,3 +16,14 @@ management and accessibility, with seamless integration into Google Cloud Platfo
 
 • Enhanced application functionality by introducing stored procedures and triggers, resulting in improved system
 responsiveness and user interaction.
+
+**Open Flights (October 2021 - December 2021)**
+
+• Utilized the OpenFlight dataset to devise an algorithm for finding the shortest path between two airports,
+optimizing travel route planning.
+
+• Implemented BFS Traversal and Dijkstra’s Algorithm to accomplish the project goal, demonstrating
+problem-solving skills and algorithmic expertise in project completion.
+
+• Developed a Degree Centrality Algorithm to identify and rank the busiest and most popular airports globally,
+providing valuable insights into air travel trends.
