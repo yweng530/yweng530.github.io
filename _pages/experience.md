@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-**Course Assistant for CS 411 (Jan. 2024 to Present)**
+**Course Assistant for CS 411 (Jan. 2024 - Present)**
 
 University of Illinois at Urbana-Champaign Champaign, IL
 
@@ -16,7 +16,7 @@ University of Illinois at Urbana-Champaign Champaign, IL
 • Guiding students in database systems concepts such as MySQL, MongoDB, Neo4j, query optimization.
 
 
-**Research Assistant at Caesar Research Group (Apr. 2023 to Present)**
+**Research Assistant at Caesar Research Group (Apr. 2023 - Present)**
 
 University of Illinois at Urbana-Champaign Champaign, IL
 
@@ -31,7 +31,7 @@ University of Illinois at Urbana-Champaign Champaign, IL
 • Played a pivotal role in the recruitment process, meticulously reviewing resumes and assessing take-home assignments for over 20 prospective applicants, contributing to the growth and strength of our research team.
 
 
-**Course Assistant for CS 124 (Jan. 2021 to May. 2021)**
+**Course Assistant for CS 124 (Jan. 2021 - May. 2021)**
 
 University of Illinois at Urbana-Champaign Champaign, IL
 
