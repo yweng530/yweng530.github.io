@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a senior Computer Science Student at the University of Illinois at Urbana-Champaign. Some of my current interests in CS include Web Development, Artificial Intelligence, Data and information systems.
+Hello! I hope you're having a great day! I'm currently a senior Computer Science Student at the University of Illinois at Urbana-Champaign. I am passionate about web development, artificial intelligence, and data science. I have developed skills in Python, C++, Java, and SQL/MySQL through various projects and courses.
+
+My goal is to apply my skills and knowledge to create innovative and user-friendly web solutions that solve real-world problems. I am actively seeking summer 2024 internship opportunities in software development, data science, or related fields! Please contact me if you think I'm a great fit!
 
 **Contact Info**
 
