@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://yweng530.github.io/files/CV_YuhuaWeng.pdf)
+[Download Resume here](https://yweng530.github.io/files/Resume_YuhuaWeng.pdf)
 
 
 
