@@ -5,10 +5,6 @@ permalink: /misc/
 author_profile: true
 ---
 
-Here are some of the photos I took.
+I was born and raised in Ningbo, a beautiful city known for its seafood in China.
 
-|<img src="/images/fall23_1.JPG" width="500" />|<img src="/images/fall23_2.JPG" width="500" /> |
-|---------------------------------------|----------------------------------------|
-|<img src="/images/sky.JPG" width="500" />| <img src="/images/winter23.png" width="500" />|
-|---------------------------------------|----------------------------------------|
-|<img src="/images/fall22.png" width="500" />| <img src="/images/winter22.png" width="500" />|
+Though not an expert on photography, I do enjoy taking photos. My photography portfolio could be found [here](https://unsplash.com/@iridescent_wyh).
